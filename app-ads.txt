@@ -34,7 +34,7 @@ xad.com, 589, RESELLER, 81cbf0a75a5e0e9a
 inmobi.com, a5e661acdc384e91a79a58eb3418e99f, RESELLER, 83e75a7ae333ca9d
 vidcrunch.com, 5fb267bc6e2dd520fd551415, RESELLER
 freewheel.tv, 895601, RESELLER
-google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
+
 spotxchange.com, 271911, RESELLER, 7842df1d2fe2db34
 spotx.tv, 271911, RESELLER, 7842df1d2fe2db34
 rhythmone.com, 456081263, RESELLER, a670c89d4a324e47
